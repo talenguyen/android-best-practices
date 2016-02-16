@@ -2,4 +2,4 @@
 
 | Name of category | What's inside |
   ---------------- | ------------- 
-[link]() | Description.
+[link] | Description.
